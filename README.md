@@ -1,5 +1,10 @@
 #
 
+## Pinned libraries
+
+[![Poolex](https://github-readme-stats.vercel.app/api/pin/?username=general-CbIC&repo=poolex&theme=dracula)](https://github.com/general-CbIC/poolex)
+[![Ruby Heap](https://github-readme-stats.vercel.app/api/pin/?username=general-CbIC&repo=ruby-heap&theme=dracula)](https://github.com/general-CbIC/ruby-heap)
+
 ## Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=general-CbIC&show_icons=true&theme=dracula)
