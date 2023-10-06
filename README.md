@@ -11,7 +11,7 @@
 
 ![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=general-CbIC&layout=compact&theme=dracula)
 
-## Badges
+## Achievements
 
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
