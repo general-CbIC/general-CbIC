@@ -1,38 +1,58 @@
 [
   {
     "id": "a-commit",
+    "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
     "body": "- <a href=\"https://github.com/vadimptr/rating-service/commit/af58368885db8041f17eb4ad25a12293f33972a9\"><strong>a</strong>f58368885db8041f17eb4ad25a12293f33972a9</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
   },
   {
     "id": "ab-commit",
+    "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/general-CbIC/ruby-heap/commit/ab642a436fb4dd74925add75bcd6df41e30aee8b\"><strong>ab</strong>642a436fb4dd74925add75bcd6df41e30aee8b</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
   },
   {
     "id": "evening-commits",
+    "tier": 0,
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex/commit/c29a07545534dd13a037f7cc40f0849d938efc7f\">c29a075</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/c6a812c19a968726b48ce972d0822883ed58847a\">c6a812c</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/b6552ef85315880984d5ee26dc67746f79b0c67f\">b6552ef</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/da974cd45689c24f6535890d3bb2dc7fa4d0e971\">da974cd</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/9f233f1074797b588bb5552e48eae5e55b9b96fb\">9f233f1</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/a50b005223ab362edacb36c5a3f6761602264b6c\">a50b005</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
     "id": "my-badges-contributor",
+    "tier": 0,
     "desc": "I contributed to <https://github.com/my-badges/my-badges>!",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/3\">#3</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/4\">#4</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true"
   },
   {
     "id": "fix-2",
+    "tier": 1,
     "desc": "I did 2 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex/commit/518e7488689463b60023d83b945e584e3cd249b9\">518e748</a>: Fix docs\n- <a href=\"https://github.com/general-CbIC/poolex/commit/a629ed42a31c33348406d21f706c338cf8758447\">a629ed4</a>: Fix description",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
   },
   {
     "id": "fix-3",
+    "tier": 2,
     "desc": "I did 3 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex/commit/be7ad93bf682fd9a7f7a541bf5b9859cd6367b44\">be7ad93</a>: Fix Poolex moduledoc\n- <a href=\"https://github.com/general-CbIC/poolex/commit/af3cfda9017459f88107eb9f1b71c4431cf4f4c9\">af3cfda</a>: Fix Poolex moduledoc\n- <a href=\"https://github.com/general-CbIC/poolex/commit/618104a303973e19c17fc36580d625051938a533\">618104a</a>: Fix dialyzer caches (#24)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-3.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
   }
 ]
