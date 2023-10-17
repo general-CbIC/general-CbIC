@@ -21,9 +21,16 @@
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+  },
+  {
     "id": "my-badges-contributor",
     "tier": 0,
-    "desc": "I contributed to <a href=\"https://github.com/my-badges/my-badges\">My Badges</a>!",
+    "desc": "I contributed to <https://github.com/my-badges/my-badges>!",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/3\">#3</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/4\">#4</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true"
   },
@@ -40,13 +47,6 @@
     "desc": "I did 3 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex/commit/be7ad93bf682fd9a7f7a541bf5b9859cd6367b44\">be7ad93</a>: Fix Poolex moduledoc\n- <a href=\"https://github.com/general-CbIC/poolex/commit/af3cfda9017459f88107eb9f1b71c4431cf4f4c9\">af3cfda</a>: Fix Poolex moduledoc\n- <a href=\"https://github.com/general-CbIC/poolex/commit/618104a303973e19c17fc36580d625051938a533\">618104a</a>: Fix dialyzer caches (#24)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-3.png?raw=true"
-  },
-  {
-    "id": "github-anniversary-5",
-    "tier": 0,
-    "desc": "I joined GitHub 5 years ago.",
-    "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
   },
   {
     "id": "covid-19",
