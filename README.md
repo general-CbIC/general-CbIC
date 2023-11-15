@@ -4,6 +4,7 @@
 
 [![Poolex](https://github-readme-stats.vercel.app/api/pin/?username=general-CbIC&repo=poolex&theme=dracula)](https://github.com/general-CbIC/poolex)
 [![Ruby Heap](https://github-readme-stats.vercel.app/api/pin/?username=general-CbIC&repo=ruby-heap&theme=dracula)](https://github.com/general-CbIC/ruby-heap)
+[![CodestatsAPI](https://github-readme-stats.vercel.app/api/pin/?username=general-CbIC&repo=codestats_api&theme=dracula)](https://github.com/general-CbIC/codestats_api)
 
 ## Github Stats
 
