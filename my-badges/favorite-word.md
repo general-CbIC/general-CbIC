@@ -5,7 +5,7 @@
 My favorite commit message words are:
 
 1. merge (used 58 times)
-2. add (used 43 times)
+2. add (used 44 times)
 3. to (used 42 times)
 4. from (used 40 times)
 5. branch (used 36 times)
