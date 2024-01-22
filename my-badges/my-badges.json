@@ -10,7 +10,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/my-badges/commit/31a2642cbbc2832ca4158de8e6c8c8c68c05c3af\">31a2642</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/c29a07545534dd13a037f7cc40f0849d938efc7f\">c29a075</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/c6a812c19a968726b48ce972d0822883ed58847a\">c6a812c</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/b6552ef85315880984d5ee26dc67746f79b0c67f\">b6552ef</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/da974cd45689c24f6535890d3bb2dc7fa4d0e971\">da974cd</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/9f233f1074797b588bb5552e48eae5e55b9b96fb\">9f233f1</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex/commit/8a8a4395e384cb11eb49f6d2acd821c7205a36d7\">8a8a439</a>\n- <a href=\"https://github.com/general-CbIC/my-badges/commit/31a2642cbbc2832ca4158de8e6c8c8c68c05c3af\">31a2642</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/c29a07545534dd13a037f7cc40f0849d938efc7f\">c29a075</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/c6a812c19a968726b48ce972d0822883ed58847a\">c6a812c</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/b6552ef85315880984d5ee26dc67746f79b0c67f\">b6552ef</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/da974cd45689c24f6535890d3bb2dc7fa4d0e971\">da974cd</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 58 times)\n2. add (used 51 times)\n3. to (used 47 times)\n4. from (used 40 times)\n5. branch (used 36 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 58 times)\n2. add (used 52 times)\n3. to (used 47 times)\n4. from (used 40 times)\n5. branch (used 36 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
