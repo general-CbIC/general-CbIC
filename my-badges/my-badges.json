@@ -4,21 +4,21 @@
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/general-CbIC/ruby-heap/commit/ab642a436fb4dd74925add75bcd6df41e30aee8b\"><strong>ab</strong>642a436fb4dd74925add75bcd6df41e30aee8b</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/ab-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex/commit/8a8a4395e384cb11eb49f6d2acd821c7205a36d7\">8a8a439</a>\n- <a href=\"https://github.com/general-CbIC/my-badges/commit/31a2642cbbc2832ca4158de8e6c8c8c68c05c3af\">31a2642</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/c29a07545534dd13a037f7cc40f0849d938efc7f\">c29a075</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/c6a812c19a968726b48ce972d0822883ed58847a\">c6a812c</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/b6552ef85315880984d5ee26dc67746f79b0c67f\">b6552ef</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/da974cd45689c24f6535890d3bb2dc7fa4d0e971\">da974cd</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/evening-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/github-anniversary/github-anniversary-5.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
   },
   {
     "id": "my-badges-contributor",
@@ -32,21 +32,21 @@
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex/commit/be7ad93bf682fd9a7f7a541bf5b9859cd6367b44\">be7ad93</a>: Fix Poolex moduledoc\n- <a href=\"https://github.com/general-CbIC/poolex/commit/af3cfda9017459f88107eb9f1b71c4431cf4f4c9\">af3cfda</a>: Fix Poolex moduledoc\n- <a href=\"https://github.com/general-CbIC/poolex/commit/618104a303973e19c17fc36580d625051938a533\">618104a</a>: Fix dialyzer caches (#24)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-3.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/covid-19/covid-19.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
     "id": "public-keys-2",
     "tier": 2,
     "desc": "I have two public keys",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/public-keys/public-keys-2.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   },
   {
     "id": "the-ultimate-question",
@@ -60,13 +60,13 @@
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
     "body": "My favorite commit message words are:\n\n1. merge (used 68 times)\n2. to (used 67 times)\n3. add (used 60 times)\n4. from (used 59 times)\n5. update (used 46 times)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/favorite-word/favorite-word.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
     "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/5489\">#5489</a>: `Minimum Size Subarray Sum`: Incorrect condition during test execution",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/polite-coder/polite-coder.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   }
 ]
