@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/general-CbIC/poolex_prom_ex/commit/f2264f23ec8f99d04b406f1d02fb3f8c54042584">f2264f2</a>
+- <a href="https://github.com/general-CbIC/poolex_prom_ex/commit/d2f57146ff34ee941742360feb1d48b27bfa34f6">d2f5714</a>
+- <a href="https://github.com/general-CbIC/poolex_prom_ex/commit/d36f35ba522000d0bc4ac70a55bb7a3c6be22e72">d36f35b</a>
+- <a href="https://github.com/general-CbIC/poolex_prom_ex/commit/624582cb977d867d4c5eaf99b79b68ce0fcdf26e">624582c</a>
+- <a href="https://github.com/general-CbIC/poolex_prom_ex/commit/580a129b236bed665cb6315f7f76670ae89cdf08">580a129</a>
 - <a href="https://github.com/general-CbIC/poolex/commit/b10cd2b6be753b1de21b5b641576165f08fe607f">b10cd2b</a>
-- <a href="https://github.com/general-CbIC/poolex/commit/5177950ed3a8b4745ef8ffa7e0e7559f2786751e">5177950</a>
-- <a href="https://github.com/general-CbIC/poolex/commit/850f4d31766b3be0553c47532972ec91f4ab53f8">850f4d3</a>
-- <a href="https://github.com/general-CbIC/poolex/commit/8a8a4395e384cb11eb49f6d2acd821c7205a36d7">8a8a439</a>
-- <a href="https://github.com/general-CbIC/my-badges/commit/31a2642cbbc2832ca4158de8e6c8c8c68c05c3af">31a2642</a>
-- <a href="https://github.com/general-CbIC/poolex/commit/c29a07545534dd13a037f7cc40f0849d938efc7f">c29a075</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
