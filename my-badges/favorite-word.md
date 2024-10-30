@@ -8,7 +8,7 @@ My favorite commit message words are:
 2. merge (used 88 times)
 3. from (used 82 times)
 4. add (used 72 times)
-5. bump (used 56 times)
+5. update (used 56 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
