@@ -61,5 +61,12 @@
     "desc": "I have one public key",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "my-badges-contributor",
+    "tier": 0,
+    "desc": "I contributed to My Badges!",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/3\">#3</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/4\">#4</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/40\">#40</a>",
+    "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
   }
 ]
