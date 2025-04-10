@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 96 times)\n2. add (used 77 times)\n3. bump (used 69 times)\n4. update (used 67 times)\n5. branch (used 49 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 96 times)\n2. add (used 77 times)\n3. bump (used 69 times)\n4. update (used 68 times)\n5. branch (used 49 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -75,5 +75,19 @@
     "desc": "I collected 100 stars.",
     "body": "Repos:\n\n* <a href=\"https://github.com/general-CbIC/poolex\">general-CbIC/poolex: ★69</a>\n* <a href=\"https://github.com/BalalaikaIndustries/balalaika_bear\">BalalaikaIndustries/balalaika_bear: ★12</a>\n* <a href=\"https://github.com/iamafanasyev/resource\">iamafanasyev/resource: ★8</a>\n* <a href=\"https://github.com/general-CbIC/ruby-heap\">general-CbIC/ruby-heap: ★5</a>\n* <a href=\"https://github.com/iamafanasyev/bindable\">iamafanasyev/bindable: ★3</a>\n* <a href=\"https://github.com/general-CbIC/game-of-life\">general-CbIC/game-of-life: ★1</a>\n* <a href=\"https://github.com/general-CbIC/ruby_cli_2048\">general-CbIC/ruby_cli_2048: ★1</a>\n* <a href=\"https://github.com/general-CbIC/poolex_prom_ex\">general-CbIC/poolex_prom_ex: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/general-CbIC/ruby-heap/commit/a77fd528647b0a71d35d1b231e4da2a0baa4a9d7\"><strong>a</strong>77fd528647b0a71d35d1b231e4da2a0baa4a9d7</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex/commit/08ca335926d8339995448b192938a44a184168f8\">08ca335</a>: Fix \"hidden module\" warning\n- <a href=\"https://github.com/general-CbIC/poolex/commit/2aa5ab182e0e973d108ac161e2a39fea4a763593\">2aa5ab1</a>: Fix `unused vars` warning",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
   }
 ]

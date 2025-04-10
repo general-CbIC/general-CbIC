@@ -1,8 +1,8 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="128">
+<img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="128">
 <strong>One of my commit sha starts with &quot;a&quot;.</strong>
 <br><br>
 
-- <a href="https://github.com/vadimptr/rating-service/commit/af58368885db8041f17eb4ad25a12293f33972a9"><strong>a</strong>f58368885db8041f17eb4ad25a12293f33972a9</a>
+- <a href="https://github.com/general-CbIC/ruby-heap/commit/a77fd528647b0a71d35d1b231e4da2a0baa4a9d7"><strong>a</strong>77fd528647b0a71d35d1b231e4da2a0baa4a9d7</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
