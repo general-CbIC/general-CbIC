@@ -29,6 +29,7 @@
 <a href="my-badges/stars-100.md"><img src="https://my-badges.github.io/my-badges/stars-100.png" alt="I collected 100 stars." title="I collected 100 stars." width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
+<a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
 <!-- my-badges end -->
 
 ## Holopin badges
