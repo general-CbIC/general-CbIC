@@ -52,7 +52,7 @@
     "id": "my-badges-contributor",
     "tier": 0,
     "desc": "I contributed to My Badges!",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/3\">#3</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/4\">#4</a>\n- <a href=\"https://github.com/my-badges/my-badges/pull/40\">#40</a>",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/3\">#3</a>: Fix update readme task\n- <a href=\"https://github.com/my-badges/my-badges/pull/4\">#4</a>: Add `my-badges contributor` badge\n- <a href=\"https://github.com/my-badges/my-badges/pull/40\">#40</a>: Fix empty commits",
     "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
   },
   {
