@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/general-CbIC/poolex">general-CbIC/poolex: ★77</a>
+* <a href="https://github.com/general-CbIC/poolex">general-CbIC/poolex: ★78</a>
 * <a href="https://github.com/BalalaikaIndustries/balalaika_bear">BalalaikaIndustries/balalaika_bear: ★12</a>
 * <a href="https://github.com/iamafanasyev/resource">iamafanasyev/resource: ★8</a>
 * <a href="https://github.com/general-CbIC/ruby-heap">general-CbIC/ruby-heap: ★5</a>
