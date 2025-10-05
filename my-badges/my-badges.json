@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 103 times)\n2. add (used 83 times)\n3. update (used 79 times)\n4. bump (used 75 times)\n5. branch (used 55 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 104 times)\n2. add (used 83 times)\n3. update (used 82 times)\n4. bump (used 77 times)\n5. branch (used 56 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex/commit/d85c4190966de445ae1492c96cca63cd4dcfc756\">d85c419</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/2e329251d119e7ab41215641a048404bec405a4d\">2e32925</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex/commit/f83bc922461a341c968343a6704275ed2756ce3e\">f83bc92</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/d85c4190966de445ae1492c96cca63cd4dcfc756\">d85c419</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/2e329251d119e7ab41215641a048404bec405a4d\">2e32925</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
