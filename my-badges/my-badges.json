@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 106 times)\n2. bump (used 90 times)\n3. add (used 86 times)\n4. update (used 84 times)\n5. branch (used 56 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 106 times)\n2. bump (used 90 times)\n3. add (used 86 times)\n4. update (used 85 times)\n5. branch (used 56 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/general-CbIC/poolex\">general-CbIC/poolex: ★79</a>\n* <a href=\"https://github.com/BalalaikaIndustries/balalaika_bear\">BalalaikaIndustries/balalaika_bear: ★12</a>\n* <a href=\"https://github.com/iamafanasyev/resource\">iamafanasyev/resource: ★8</a>\n* <a href=\"https://github.com/general-CbIC/ruby-heap\">general-CbIC/ruby-heap: ★5</a>\n* <a href=\"https://github.com/iamafanasyev/bindable\">iamafanasyev/bindable: ★3</a>\n* <a href=\"https://github.com/general-CbIC/game-of-life\">general-CbIC/game-of-life: ★1</a>\n* <a href=\"https://github.com/general-CbIC/ruby_cli_2048\">general-CbIC/ruby_cli_2048: ★1</a>\n* <a href=\"https://github.com/general-CbIC/poolex_prom_ex\">general-CbIC/poolex_prom_ex: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/general-CbIC/poolex\">general-CbIC/poolex: ★80</a>\n* <a href=\"https://github.com/BalalaikaIndustries/balalaika_bear\">BalalaikaIndustries/balalaika_bear: ★12</a>\n* <a href=\"https://github.com/iamafanasyev/resource\">iamafanasyev/resource: ★8</a>\n* <a href=\"https://github.com/general-CbIC/ruby-heap\">general-CbIC/ruby-heap: ★5</a>\n* <a href=\"https://github.com/iamafanasyev/bindable\">iamafanasyev/bindable: ★3</a>\n* <a href=\"https://github.com/general-CbIC/game-of-life\">general-CbIC/game-of-life: ★1</a>\n* <a href=\"https://github.com/general-CbIC/ruby_cli_2048\">general-CbIC/ruby_cli_2048: ★1</a>\n* <a href=\"https://github.com/general-CbIC/poolex_prom_ex\">general-CbIC/poolex_prom_ex: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
