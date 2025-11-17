@@ -37,3 +37,7 @@
 ## Holopin badges
 
 [![An image of @generalcbic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/generalcbic)](https://holopin.io/@generalcbic)
+
+## This page view stats 🤯
+
+[![Aleksandr Sysoev profile views](https://u8views.com/api/v1/github/profiles/13352583/views/day-week-month-total-count.svg)](https://u8views.com/github/general-CbIC)
