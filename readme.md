@@ -1,6 +1,6 @@
 #
 
-## Pinned libraries
+<!-- ## Pinned libraries
 
 [![Poolex](https://github-readme-stats.vercel.app/api/pin/?username=general-CbIC&repo=poolex&theme=dracula)](https://github.com/general-CbIC/poolex)
 [![Poolex PromEx Plugin](https://github-readme-stats.vercel.app/api/pin/?username=general-CbIC&repo=poolex_prom_ex&theme=dracula)](https://github.com/general-CbIC/poolex_prom_ex)
@@ -11,7 +11,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=general-CbIC&show_icons=true&theme=dracula)
 
-![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=general-CbIC&layout=compact&theme=dracula)
+![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=general-CbIC&layout=compact&theme=dracula) -->
 
 ## Achievements
 
