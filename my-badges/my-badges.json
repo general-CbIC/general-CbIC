@@ -124,5 +124,19 @@
     "desc": "I closed an issue that was open for a year",
     "body": "Issues:\n\n- <a href=\"https://github.com/general-CbIC/poolex/issues/67\">#67</a>: Capture crash logs in tests",
     "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex/commit/a8928dec24b3f96fd2f71e127f2fa98e9b2c058d\">a8928de</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/ebd3e9b58066b82ac89f595111ad824338eb11b8\">ebd3e9b</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/df74bee0b13b3d2500b90747eb8bf10f2f0d3c4a\">df74bee</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/0fa63360b1af1c9f8f5afc4dbbd0c923d126c0b4\">0fa6336</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/aeb9f6cb1185f672a740dda1b1dac09d279e4675\">aeb9f6c</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/b181e6b151a72dd2985e56ea4cc890c432351c71\">b181e6b</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/general-CbIC/commit/1777deb949a891484ddf9e2387e492f6b9359620\">1777deb</a>\n- <a href=\"https://github.com/general-CbIC/general-CbIC/commit/8a535019cb6ec3fe1e72fdc85f9a72b9436d5ab8\">8a53501</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/7db5c8581227b84d9245c2c964c21c7a20ebc5e3\">7db5c85</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/f55858bba2d6af9d6efc43ce5f803d411570f431\">f55858b</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   }
 ]
