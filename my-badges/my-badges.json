@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 135 times)\n2. merge (used 115 times)\n3. update (used 108 times)\n4. bump (used 102 times)\n5. worker (used 73 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 144 times)\n2. merge (used 116 times)\n3. update (used 108 times)\n4. bump (used 102 times)\n5. worker (used 76 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex/commit/0998a3bbe2c14802f488c2a26fc78f29a0a1d779\">0998a3b</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/4c00c7a9a125d28f5800b0ef3aef1e44aa12fd9b\">4c00c7a</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/f83bc922461a341c968343a6704275ed2756ce3e\">f83bc92</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/d85c4190966de445ae1492c96cca63cd4dcfc756\">d85c419</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/2e329251d119e7ab41215641a048404bec405a4d\">2e32925</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex_example/commit/a919f9ab577d29b9c0a9cd60d12219d8f0c73704\">a919f9a</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/0998a3bbe2c14802f488c2a26fc78f29a0a1d779\">0998a3b</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/4c00c7a9a125d28f5800b0ef3aef1e44aa12fd9b\">4c00c7a</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/f83bc922461a341c968343a6704275ed2756ce3e\">f83bc92</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/d85c4190966de445ae1492c96cca63cd4dcfc756\">d85c419</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/2e329251d119e7ab41215641a048404bec405a4d\">2e32925</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -138,5 +138,12 @@
     "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/general-CbIC/commit/1777deb949a891484ddf9e2387e492f6b9359620\">1777deb</a>\n- <a href=\"https://github.com/general-CbIC/general-CbIC/commit/8a535019cb6ec3fe1e72fdc85f9a72b9436d5ab8\">8a53501</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/7db5c8581227b84d9245c2c964c21c7a20ebc5e3\">7db5c85</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/f55858bba2d6af9d6efc43ce5f803d411570f431\">f55858b</a>",
     "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex_example/commit/8a6cfb933554c3185e950552d1fc572f22d55e73\">8a6cfb9</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   }
 ]
