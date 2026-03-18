@@ -145,5 +145,12 @@
     "desc": "I made cosmetic commit.",
     "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex_example/commit/8a6cfb933554c3185e950552d1fc572f22d55e73\">8a6cfb9</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex_example/commit/430cf2c430e6c5dfc6b13045cc053421bcd1058d\">430cf2c</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
