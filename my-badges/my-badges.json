@@ -87,7 +87,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex_example/commit/a919f9ab577d29b9c0a9cd60d12219d8f0c73704\">a919f9a</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/4c51108b20bd74231b9a3b0e1d10eb10d1a926a0\">4c51108</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/0998a3bbe2c14802f488c2a26fc78f29a0a1d779\">0998a3b</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/4c00c7a9a125d28f5800b0ef3aef1e44aa12fd9b\">4c00c7a</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/f83bc922461a341c968343a6704275ed2756ce3e\">f83bc92</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/d85c4190966de445ae1492c96cca63cd4dcfc756\">d85c419</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/2e329251d119e7ab41215641a048404bec405a4d\">2e32925</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex_playground/commit/a919f9ab577d29b9c0a9cd60d12219d8f0c73704\">a919f9a</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/4c51108b20bd74231b9a3b0e1d10eb10d1a926a0\">4c51108</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/0998a3bbe2c14802f488c2a26fc78f29a0a1d779\">0998a3b</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/4c00c7a9a125d28f5800b0ef3aef1e44aa12fd9b\">4c00c7a</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/f83bc922461a341c968343a6704275ed2756ce3e\">f83bc92</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/d85c4190966de445ae1492c96cca63cd4dcfc756\">d85c419</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/2e329251d119e7ab41215641a048404bec405a4d\">2e32925</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -115,7 +115,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex_example/commit/36f62b4e1e2e878a59601103c31e16dfbe3fc6b1\">36f62b4</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/a9477785be4b1af04a613a86f985f855a1b51acc\">a947778</a>\n- <a href=\"https://github.com/general-CbIC/ruby-heap/commit/70916e4492384595027d6a436539defda51edaba\">70916e4</a>\n- <a href=\"https://github.com/general-CbIC/ruby-heap/commit/2d4e850d8314f30f2d4828e8fae466cd7f4fc3c6\">2d4e850</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/a4ea621b847895d16d8d70c81ff0f013bae53163\">a4ea621</a>\n- <a href=\"https://github.com/general-CbIC/poolex_example/commit/e6f58502e6862ba1067534da49521e368906ae74\">e6f5850</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex_playground/commit/36f62b4e1e2e878a59601103c31e16dfbe3fc6b1\">36f62b4</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/a9477785be4b1af04a613a86f985f855a1b51acc\">a947778</a>\n- <a href=\"https://github.com/general-CbIC/ruby-heap/commit/70916e4492384595027d6a436539defda51edaba\">70916e4</a>\n- <a href=\"https://github.com/general-CbIC/ruby-heap/commit/2d4e850d8314f30f2d4828e8fae466cd7f4fc3c6\">2d4e850</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/a4ea621b847895d16d8d70c81ff0f013bae53163\">a4ea621</a>\n- <a href=\"https://github.com/general-CbIC/poolex_playground/commit/e6f58502e6862ba1067534da49521e368906ae74\">e6f5850</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -143,14 +143,14 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex_example/commit/8a6cfb933554c3185e950552d1fc572f22d55e73\">8a6cfb9</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex_playground/commit/8a6cfb933554c3185e950552d1fc572f22d55e73\">8a6cfb9</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
     "id": "st-patricks-day",
     "tier": 0,
     "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex_example/commit/430cf2c430e6c5dfc6b13045cc053421bcd1058d\">430cf2c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex_playground/commit/430cf2c430e6c5dfc6b13045cc053421bcd1058d\">430cf2c</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]

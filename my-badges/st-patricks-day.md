@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/general-CbIC/poolex_example/commit/430cf2c430e6c5dfc6b13045cc053421bcd1058d">430cf2c</a>
+- <a href="https://github.com/general-CbIC/poolex_playground/commit/430cf2c430e6c5dfc6b13045cc053421bcd1058d">430cf2c</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

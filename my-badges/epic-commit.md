@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/general-CbIC/poolex_example/commit/a919f9ab577d29b9c0a9cd60d12219d8f0c73704">a919f9a</a>
+- <a href="https://github.com/general-CbIC/poolex_playground/commit/a919f9ab577d29b9c0a9cd60d12219d8f0c73704">a919f9a</a>
 - <a href="https://github.com/general-CbIC/poolex/commit/4c51108b20bd74231b9a3b0e1d10eb10d1a926a0">4c51108</a>
 - <a href="https://github.com/general-CbIC/poolex/commit/0998a3bbe2c14802f488c2a26fc78f29a0a1d779">0998a3b</a>
 - <a href="https://github.com/general-CbIC/poolex/commit/4c00c7a9a125d28f5800b0ef3aef1e44aa12fd9b">4c00c7a</a>
