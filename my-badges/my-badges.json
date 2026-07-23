@@ -1,45 +1,10 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/general-CbIC/ruby-heap/commit/a77fd528647b0a71d35d1b231e4da2a0baa4a9d7\"><strong>a</strong>77fd528647b0a71d35d1b231e4da2a0baa4a9d7</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/general-CbIC/ruby-heap/commit/ab642a436fb4dd74925add75bcd6df41e30aee8b\"><strong>ab</strong>642a436fb4dd74925add75bcd6df41e30aee8b</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
-  },
-  {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 157 times)\n2. merge (used 130 times)\n3. update (used 125 times)\n4. bump (used 116 times)\n5. worker (used 82 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex/commit/08ca335926d8339995448b192938a44a184168f8\">08ca335</a>: Fix \"hidden module\" warning\n- <a href=\"https://github.com/general-CbIC/poolex/commit/2aa5ab182e0e973d108ac161e2a39fea4a763593\">2aa5ab1</a>: Fix `unused vars` warning",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "fix-3",
-    "tier": 2,
-    "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex/commit/be7ad93bf682fd9a7f7a541bf5b9859cd6367b44\">be7ad93</a>: Fix Poolex moduledoc\n- <a href=\"https://github.com/general-CbIC/poolex/commit/af3cfda9017459f88107eb9f1b71c4431cf4f4c9\">af3cfda</a>: Fix Poolex moduledoc\n- <a href=\"https://github.com/general-CbIC/poolex/commit/618104a303973e19c17fc36580d625051938a533\">618104a</a>: Fix dialyzer caches (#24)",
-    "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
     "id": "github-anniversary-5",
@@ -63,32 +28,11 @@
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
-    "id": "stars-100",
-    "tier": 1,
-    "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/general-CbIC/poolex\">general-CbIC/poolex: ★88</a>\n* <a href=\"https://github.com/BalalaikaIndustries/balalaika_bear\">BalalaikaIndustries/balalaika_bear: ★12</a>\n* <a href=\"https://github.com/iamafanasyev/resource\">iamafanasyev/resource: ★8</a>\n* <a href=\"https://github.com/general-CbIC/ruby-heap\">general-CbIC/ruby-heap: ★5</a>\n* <a href=\"https://github.com/iamafanasyev/bindable\">iamafanasyev/bindable: ★3</a>\n* <a href=\"https://github.com/general-CbIC/game-of-life\">general-CbIC/game-of-life: ★1</a>\n* <a href=\"https://github.com/general-CbIC/ruby_cli_2048\">general-CbIC/ruby_cli_2048: ★1</a>\n* <a href=\"https://github.com/general-CbIC/poolex_prom_ex\">general-CbIC/poolex_prom_ex: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://my-badges.github.io/my-badges/stars-100.png"
-  },
-  {
     "id": "the-ultimate-question",
     "tier": 0,
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
     "body": "- <a href=\"https://github.com/general-CbIC/poolex/issues/42\">#42</a>",
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
-  },
-  {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex_playground/commit/a919f9ab577d29b9c0a9cd60d12219d8f0c73704\">a919f9a</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/bddf96ff22c4737e092a511aa222ce685da54564\">bddf96f</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/9a7ce83af9628859872ef40288569929892b1640\">9a7ce83</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/eede52e5c25f6a1ea851294fb7a6fe70d00418fd\">eede52e</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/4c51108b20bd74231b9a3b0e1d10eb10d1a926a0\">4c51108</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/0998a3bbe2c14802f488c2a26fc78f29a0a1d779\">0998a3b</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/4c00c7a9a125d28f5800b0ef3aef1e44aa12fd9b\">4c00c7a</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/f83bc922461a341c968343a6704275ed2756ce3e\">f83bc92</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/d85c4190966de445ae1492c96cca63cd4dcfc756\">d85c419</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/2e329251d119e7ab41215641a048404bec405a4d\">2e32925</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "dead-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"dead\" once.",
-    "body": "- <a href=\"https://github.com/general-CbIC/poolex/commit/b4eb493b9991b90fdeadc9a4efb9da485b431330\">b4eb493b9991b90f<strong>dead</strong>c9a4efb9da485b431330</a>",
-    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
     "id": "github-anniversary-10",
@@ -98,53 +42,11 @@
     "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
   },
   {
-    "id": "sleepy-coder",
-    "tier": 0,
-    "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/ruby-heap/commit/7047368309241dce84ffe829c37f8773009d6800\">7047368</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/fbd292ee7860455454217cfc0d28a976e7f44adc\">fbd292e</a>\n- <a href=\"https://github.com/general-CbIC/ruby-heap/commit/6890e48698c0ddaeb013c09f57b2975426af484a\">6890e48</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/fec844feded176b27a16e6d954af8977f697a041\">fec844f</a>\n- <a href=\"https://github.com/general-CbIC/ruby-heap/commit/68153e370ebc25593cae39b06f42a4caa5b98249\">68153e3</a>\n- <a href=\"https://github.com/general-CbIC/ruby-heap/commit/4a1393db924a180db6a2c535758b7922eb606702\">4a1393d</a>",
-    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
-  },
-  {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex/commit/1ed20aa8d799cb8283740b870dd05926873a65f8\">1ed20aa</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/38c8948d9ef289b71e132ca9a9a61a7438b81ac2\">38c8948</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/f5a82b8562abf6b5d32e4429dfbfd635c6031ce6\">f5a82b8</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/894dda38ba642388f6cfed4dbb32503ed7f90a05\">894dda3</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/bda42865b0e6c1e7f4282f61570392a03edd6543\">bda4286</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/f4fc35cf9452fba0eeae72cf7f86ee56d9d4e9ce\">f4fc35c</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
     "id": "old-issue-1",
     "tier": 1,
     "desc": "I closed an issue that was open for a year",
     "body": "Issues:\n\n- <a href=\"https://github.com/general-CbIC/poolex/issues/67\">#67</a>: Capture crash logs in tests",
     "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
-  },
-  {
-    "id": "alien-day",
-    "tier": 0,
-    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex/commit/a8928dec24b3f96fd2f71e127f2fa98e9b2c058d\">a8928de</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/ebd3e9b58066b82ac89f595111ad824338eb11b8\">ebd3e9b</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/df74bee0b13b3d2500b90747eb8bf10f2f0d3c4a\">df74bee</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/0fa63360b1af1c9f8f5afc4dbbd0c923d126c0b4\">0fa6336</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/aeb9f6cb1185f672a740dda1b1dac09d279e4675\">aeb9f6c</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/b181e6b151a72dd2985e56ea4cc890c432351c71\">b181e6b</a>",
-    "image": "https://my-badges.github.io/my-badges/alien-day.png"
-  },
-  {
-    "id": "science-fiction-day",
-    "tier": 0,
-    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/general-CbIC/commit/1777deb949a891484ddf9e2387e492f6b9359620\">1777deb</a>\n- <a href=\"https://github.com/general-CbIC/general-CbIC/commit/8a535019cb6ec3fe1e72fdc85f9a72b9436d5ab8\">8a53501</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/7db5c8581227b84d9245c2c964c21c7a20ebc5e3\">7db5c85</a>\n- <a href=\"https://github.com/general-CbIC/poolex/commit/f55858bba2d6af9d6efc43ce5f803d411570f431\">f55858b</a>",
-    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
-  },
-  {
-    "id": "cosmetic-commit",
-    "tier": 0,
-    "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex_playground/commit/8a6cfb933554c3185e950552d1fc572f22d55e73\">8a6cfb9</a>",
-    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
-  },
-  {
-    "id": "st-patricks-day",
-    "tier": 0,
-    "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/general-CbIC/poolex_playground/commit/430cf2c430e6c5dfc6b13045cc053421bcd1058d\">430cf2c</a>",
-    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   },
   {
     "id": "public-keys-3",
